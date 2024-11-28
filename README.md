@@ -1,5 +1,5 @@
 # Spring Boot Shopping Cart Web App
-
+This line is just added 
 ## About
 
 This is a demo project for practicing Spring + Thymeleaf. The idea was to build some basic shopping cart web app.
